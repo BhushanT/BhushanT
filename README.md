@@ -25,7 +25,7 @@
 
 🔹 [**For Fun - I qualified for and travelled to Japan to play in the Pokemon World Championship 2023**](https://www.youtube.com/watch?v=xrQpdICqTOo)  
 
-📢 *Featured in [Dot Esports](https://dotesports.com/pokemon/news/famous-pokemon-content-creator-dominates-his-first-sv-vgc-tournament-with-impressive-record)* and [TechRadar](https://money.yahoo.com/pok-mon-scarlet-violets-dlc-155834296.html)
+📢 *Featured in [Dot Esports](https://dotesports.com/pokemon/news/famous-pokemon-content-creator-dominates-his-first-sv-vgc-tournament-with-impressive-record)* and [_TechRadar_](https://money.yahoo.com/pok-mon-scarlet-violets-dlc-155834296.html)
 
 ---
 
