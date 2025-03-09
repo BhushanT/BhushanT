@@ -9,7 +9,7 @@
 - 🎓 Studied Engineering at **BITS Pilani**, followed by a **Master's in Computer Science** at the **University of Florida**
 - 💼 Experienced in **Python (Flask, API Development)**, **PostgreSQL & MongoDB**, **JavaScript (ReactJS, NodeJS, MERN Stack)**, and **C (Retro Game Development)**
 - 🤖 **Current Project:** Training AI with **reinforcement learning** to play competitive video games at a superhuman level
-- 📊 **Past Personal Projects:** Built a GBA ROM in C, created an analytics suite in Python for Smogon Tournaments, Built a Productivity Chrome Extension with 1000 active users
+- 📊 **Past Personal Projects:** Built a GBA ROM in C, created an analytics suite in Python for Smogon Tournaments, Built a productivity Chrome Extension with 1000 active users
 - 🎥 **YouTube Channel:** 175K+ subscribers | 50M+ lifetime views
 
 📌 *For business and employment inquiries, connect with me on [LinkedIn](https://www.linkedin.com/in/bthumsi/)*
@@ -25,7 +25,7 @@
 
 🔹 [**For Fun - I qualified for and travelled to Japan to play in the Pokemon World Championship 2023**](https://www.youtube.com/watch?v=xrQpdICqTOo)  
 
-📢 *Featured in [Dot Esports](https://dotesports.com/pokemon/news/famous-pokemon-content-creator-dominates-his-first-sv-vgc-tournament-with-impressive-record)*
+📢 *Featured in [Dot Esports](https://dotesports.com/pokemon/news/famous-pokemon-content-creator-dominates-his-first-sv-vgc-tournament-with-impressive-record)* and [TechRadar](https://money.yahoo.com/pok-mon-scarlet-violets-dlc-155834296.html)
 
 ---
 
