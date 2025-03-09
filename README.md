@@ -8,7 +8,8 @@
 ### 🛠️ About Me
 - 🎓 Studied Engineering at **BITS Pilani**, followed by a **Master's in Computer Science** at the **University of Florida**
 - 💼 Experienced in **Python (Flask, API Development)**, **PostgreSQL & MongoDB**, **JavaScript (ReactJS, NodeJS, MERN Stack)**, and **C (Retro Game Development)**
-- 🤖 **Current Project:** Training AI with **reinforcement learning** to dominate competitive video games
+- 🤖 **Current Project:** Training AI with **reinforcement learning** to play competitive video games at a superhuman level
+- 📊 **Past Personal Projects:** Built a GBA ROM in C, created an analytics suite in Python for Smogon Tournaments, Built a Productivity Chrome Extension with 1000 active users
 - 🎥 **YouTube Channel:** 175K+ subscribers | 50M+ lifetime views
 
 📌 *For business and employment inquiries, connect with me on [LinkedIn](https://www.linkedin.com/in/bthumsi/)*
