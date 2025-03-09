@@ -16,11 +16,35 @@
 
 ---
 
+### Hi there! 👋 I'm Bhushan
+
+**Software Engineer by day, YouTube Content Creator by night!**  
+🚀 Passionate about building software, analyzing video games, and pushing AI to superhuman levels in competitive gaming.
+
+---
+
+### 🛠️ About Me
+- 🎓 Studied Engineering at **BITS Pilani**, followed by a **Master's in Computer Science** at the **University of Florida**
+- 💼 Experienced in **Python (Flask, API Development)**, **PostgreSQL & MongoDB**, **JavaScript (ReactJS, NodeJS, MERN Stack)**, and **C (Retro Game Development)**
+- 🤖 **Current Project:** Training AI with **reinforcement learning** to dominate competitive video games
+- 🎥 **YouTube Channel:** 175K+ subscribers | 50M+ lifetime views
+
+📌 *For business and employment inquiries, connect with me on [LinkedIn](https://www.linkedin.com/in/bthumsi/)*
+
+---
+
 ### 📺 Featured YouTube Projects - I Love to use software I build in the videos I make!
 🔹 [**Creating a Pokémon ROM Hack in C using the Pokemon Reverse Engineering Team (PRET) Decompilation Project**](https://www.youtube.com/watch?v=46ICvnWhcpk&sttick=0)  
+[![YouTube Video](https://github-readme-youtube-card.vercel.app/api?vid=46ICvnWhcpk&title=Creating%20a%20Pokémon%20ROM%20Hack%20in%20C)](https://www.youtube.com/watch?v=46ICvnWhcpk&sttick=0)
+
 🔹 [**Explaining Integer Overflow Bugs in Pokémon**](https://www.youtube.com/watch?v=sCNbOl4w2FI)  
+[![YouTube Video](https://github-readme-youtube-card.vercel.app/api?vid=sCNbOl4w2FI&title=Integer%20Overflow%20Bugs%20in%20Pokémon)](https://www.youtube.com/watch?v=sCNbOl4w2FI)
+
 🔹 [**Using Python to scrape and analyze Pokémon Showdown Usage Stats from 2014-2025**](https://www.youtube.com/watch?v=wU2J-xYhNio&)  
+[![YouTube Video](https://github-readme-youtube-card.vercel.app/api?vid=wU2J-xYhNio&title=Scraping%20and%20Analyzing%20Pokémon%20Showdown%20Usage%20Stats)](https://www.youtube.com/watch?v=wU2J-xYhNio&)
+
 🔹 [**For Fun - I qualified for and travelled to Japan to play in the Pokemon World Championship 2023**](https://www.youtube.com/watch?v=xrQpdICqTOo)  
+[![YouTube Video](https://github-readme-youtube-card.vercel.app/api?vid=xrQpdICqTOo&title=My%20Journey%20to%20the%20Pokémon%20World%20Championships%202023)](https://www.youtube.com/watch?v=xrQpdICqTOo)
 
 📢 *Featured in [Dot Esports](https://dotesports.com/pokemon/news/famous-pokemon-content-creator-dominates-his-first-sv-vgc-tournament-with-impressive-record)*
 
@@ -34,12 +58,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 
----
-
-### 📫 Get in Touch
-📌 **LinkedIn:** [https://www.linkedin.com/in/bthumsi/](https://www.linkedin.com/in/bthumsi/)  
-
-💡 *Always open to collaborations, software engineering roles, and data-driven gaming projects!*
 
 <!--
 **BhushanT/BhushanT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
