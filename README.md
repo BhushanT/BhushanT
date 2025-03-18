@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Bhushan!
 
-**Software Engineer by day, YouTube Content Creator by night!**  
+**Software Engineer by day, part time YouTube Content Creator by night!**  
 🚀 Passionate about building software, analyzing information from a data-driven POV, and presenting that data in an insightful way.
 
 ---
@@ -17,11 +17,11 @@
 ---
 
 ### 📺 Featured YouTube Projects - I Love to use software I build in the videos I make!
-🔹 [**Creating a Pokémon ROM Hack in C using the Pokemon Reverse Engineering Team (PRET) Decompilation Project**](https://www.youtube.com/watch?v=46ICvnWhcpk&sttick=0)  
+🔹 [**Creating a GBA ROM Hack in C using the Pokemon Reverse Engineering Team (PRET) Decompilation Project**](https://www.youtube.com/watch?v=46ICvnWhcpk&sttick=0)  
 
-🔹 [**Explaining Integer Overflow Bugs in Pokémon**](https://www.youtube.com/watch?v=sCNbOl4w2FI)  
+🔹 [**Analyzing Integer Overflow Vulnerabilities in Computational Logic**](https://www.youtube.com/watch?v=sCNbOl4w2FI)  
 
-🔹 [**Using Python to scrape and analyze Pokémon Showdown Usage Stats from 2014-2025**](https://www.youtube.com/watch?v=wU2J-xYhNio&)  
+🔹 [**Applying Python for Systematic Scraping and Statistical Analysis on Showdown(2014-2025)**](https://www.youtube.com/watch?v=wU2J-xYhNio&)  
 
 🔹 [**For Fun - I qualified for and travelled to Japan to play in the Pokemon World Championship 2023**](https://www.youtube.com/watch?v=xrQpdICqTOo)  
 
